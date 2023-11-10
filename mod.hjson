@@ -1,0 +1,8 @@
+name: "zdoot-erekir-stuff"
+displayName: "Erekir Stuff"
+author: doot
+description: "Some random erekir stuff that could belong in the game."
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false

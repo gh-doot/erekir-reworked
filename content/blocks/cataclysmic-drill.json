@@ -1,0 +1,51 @@
+{
+	"name": "Cataclysmic Drill",
+	"description": "A revised version of the Eruption drill. Requires Cyanogen.",
+	"type": "BurstDrill",
+	"size": 6,
+	"tier": 9,
+    "hasPower": true,
+    "hasLiquid": true,
+	"drillTime": 180,
+    "shake": 8,
+    "itemCapacity": 160,
+    "liquidCapacity": 40,
+    "arrowOffset": 0,
+    "arrowSpacing": 3,
+    "arrows": 4,
+    "drillMultipliers": {
+        "beryllium": 2.5
+    },
+    "drillEffect": {
+        "type": "MultiEffect",
+        "effects": [
+            "scatheExplosion",
+            "titanExplosion",
+            "titanSmoke",
+            "healWaveMend",
+            "overdriveWave",
+            "shieldBreak",
+            "sparkExplosion",
+            "pointShockwave",
+            "scatheSlash",
+            "fluxVapor"
+        ]
+    },
+	"consumes": {
+		"power": 9.0,
+        "liquids": [
+            {
+                "liquid": "cyanogen",
+                "amount": "0.3",
+                "optional": true,
+                "booster": true
+            }
+        ]
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}
