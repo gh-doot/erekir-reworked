@@ -4,6 +4,7 @@
 	"type": "BurstDrill",
 	"size": 6,
 	"tier": 9,
+    "squareSprite": false,
     "hasPower": true,
     "hasLiquid": true,
 	"drillTime": 180,

@@ -1,7 +1,7 @@
 {
 	"name": "Beam Noder",
 	"description": "A revised version of the Eruption drill. Requires Cyanogen.",
-	"type": "PowerNode",
+	"type": "LongPowerNode",
 	"size": 1,
     "maxNodes": 2,
     "laserRange": 5,
