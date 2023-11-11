@@ -1,0 +1,17 @@
+{
+	"name": "Non-Directional Carbide Node",
+	"description": "A node that is more capable than a normal Beam Node and re-made from the Carbide Node.",
+	"type": "LongPowerNode",
+	"size": 1,
+    "maxNodes": 2,
+    "laserRange": 15,
+    "laserColor2": "ffd9c2",
+    "laserScale": "0.4",
+    "hasPower": true,
+	"requirements": [
+		{ "item": "beryllium", "amount": 15 },
+		{ "item": "silicon", "amount": 5 }
+	],
+	"category": "power",
+	"research": "beam-node"
+}

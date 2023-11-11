@@ -1,0 +1,16 @@
+{
+	"name": "Carbide Node",
+	"description": "A more powerful node for transmitting power from further away.",
+	"type": "BeamNode",
+	"range": 15,
+    "hasPower": true,
+	"laserColor1": "ffffff",
+	"laserColor2": "ffffff",
+	"requirements": [
+		{ "item": "beryllium", "amount": 15 },
+		{ "item": "carbide", "amount": 10 },
+		{ "item": "silicon", "amount": 10 }
+	],
+	"category": "power",
+	"research": "non-directional-beam-node"
+}
