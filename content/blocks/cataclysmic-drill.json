@@ -16,21 +16,7 @@
     "drillMultipliers": {
         "beryllium": 2.5
     },
-    "drillEffect": {
-        "type": "MultiEffect",
-        "effects": [
-            "scatheExplosion",
-            "titanExplosion",
-            "titanSmoke",
-            "healWaveMend",
-            "overdriveWave",
-            "shieldBreak",
-            "sparkExplosion",
-            "pointShockwave",
-            "scatheSlash",
-            "fluxVapor"
-        ]
-    },
+    "drillEffect": [],
 	"consumes": {
 		"power": 9.0,
         "liquids": [
