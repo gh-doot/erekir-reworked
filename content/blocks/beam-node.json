@@ -4,7 +4,7 @@
 	"type": "LongPowerNode",
 	"size": 1,
     "maxNodes": 2,
-    "laserRange": 5,
+    "laserRange": 9,
     "laserColor2": "ffd9c2",
     "laserScale": "0.4",
     "hasPower": true,
