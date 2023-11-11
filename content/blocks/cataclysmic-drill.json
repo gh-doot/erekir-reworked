@@ -16,22 +16,48 @@
     "drillMultipliers": {
         "beryllium": 2.5
     },
-    "drillEffect": [],
+    "drillEffect": [
+        {
+            "type": "WrapEffect",
+            "effect": "dynamicSpikes",
+            "color": "fc81dd",
+            "rotation": 50
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "mineImpactWave",
+            "color": "fc81dd",
+            "rotation": 55
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "shieldBreak",
+            "color": "fc81dd",
+            "rotation": 50
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "colorTrail",
+            "color": "fc81dd",
+            "rotation": 10
+        }
+    ],
 	"consumes": {
 		"power": 9.0,
         "liquids": [
             {
-                "liquid": "cyanogen",
-                "amount": "0.3",
-                "optional": true,
-                "booster": true
+                "liquid": "ozone",
+                "amount": "0.3"
             }
         ]
 	},
 	"requirements": [
-		{ "item": "silicon", "amount": 40 },
-		{ "item": "graphite", "amount": 20 }
+		{ "item": "thorium", "amount": 175 },
+		{ "item": "silicon", "amount": 435 },
+        { "item": "tungsten", "amount": 345 },
+        { "item": "carbide", "amount": 275 },
+        { "item": "surge-alloy", "amount": 75 }
 	],
 	"category": "production",
-	"research": "laser-drill"
+	"research": "eruption-drill"
 }
