@@ -40,6 +40,12 @@
             "effect": "colorTrail",
             "color": "fc81dd",
             "rotation": 10
+        },
+        {
+            "type": "WrapEffect",
+            "effect": "colorTrail",
+            "color": "ffffff",
+            "rotation": 7
         }
     ],
 	"consumes": {
