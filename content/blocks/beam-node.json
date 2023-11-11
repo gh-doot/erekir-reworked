@@ -1,0 +1,20 @@
+{
+	"name": "Beam Noder",
+	"description": "A revised version of the Eruption drill. Requires Cyanogen.",
+	"type": "PowerNode",
+	"size": 1,
+    "maxNodes": 2,
+    "laserRange": 5,
+    "laserColor2": "ffd9c2",
+    "laserScale": "0.4",
+    "hasPower": true,
+	"requirements": [
+		{ "item": "thorium", "amount": 175 },
+		{ "item": "silicon", "amount": 435 },
+        { "item": "tungsten", "amount": 345 },
+        { "item": "carbide", "amount": 275 },
+        { "item": "surge-alloy", "amount": 75 }
+	],
+	"category": "power",
+	"research": "eruption-drill"
+}
