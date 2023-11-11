@@ -1,6 +1,6 @@
 {
 	"name": "Cataclysmic Drill",
-	"description": "A revised version of the Eruption drill. Requires Cyanogen.",
+	"description": "A revised version of the Eruption drill. Requires Ozone.",
 	"type": "BurstDrill",
 	"size": 6,
 	"tier": 9,
