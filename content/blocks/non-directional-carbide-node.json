@@ -3,7 +3,7 @@
 	"description": "A node that is more capable than a normal Beam Node and re-made from the Carbide Node.",
 	"type": "LongPowerNode",
 	"size": 1,
-    "maxNodes": 2,
+    "maxNodes": 4,
     "laserRange": 15,
     "laserColor2": "ffd9c2",
     "laserScale": "0.4",

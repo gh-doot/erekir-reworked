@@ -4,8 +4,6 @@
 	"type": "BeamNode",
 	"range": 15,
     "hasPower": true,
-	"laserColor1": "ffffff",
-	"laserColor2": "ffffff",
 	"requirements": [
 		{ "item": "beryllium", "amount": 15 },
 		{ "item": "carbide", "amount": 10 },
