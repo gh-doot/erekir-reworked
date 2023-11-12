@@ -1,7 +1,7 @@
 {
 	"name": "Boost Glimmerer",
 	"description": "A weaker overdrive projector merely reconstructed for Erekir.",
-	"type": "OverdriveProjector",
+	"type": "RegenProjector",
 	"size": 2,
     "hasPower": true,
     "baseColor": "3B3344",
