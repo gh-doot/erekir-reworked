@@ -3,6 +3,21 @@
 	"description": "A weaker overdrive projector merely reconstructed for Erekir.",
 	"type": "OverdriveProjector",
 	"size": 2,
+    "hasPower": true,
+    "baseColor": "3B3344",
+    "phaseColor": "60496D",
+    "squareSprite": false,
+    "consumes": {
+        "power": 3,
+        "items": [
+            {
+                "item": "carbide",
+                "amount": 1,
+                "optional": true,
+                "booster": true
+            }
+        ]
+    },
 	"requirements": [
 		{ "item": "beryllium", "amount": 15 },
 		{ "item": "silicon", "amount": 5 }
