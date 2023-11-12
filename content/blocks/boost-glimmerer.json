@@ -9,14 +9,16 @@
     "squareSprite": false,
     "consumes": {
         "power": 3,
-        "items": [
-            {
+        "items": {
+            "items": [
+              {
                 "item": "carbide",
-                "amount": 1,
-                "optional": true,
-                "booster": true
-            }
-        ]
+                "amount": 1
+              }
+            ],
+            "booster": true,
+            "optional": true
+          }
     },
 	"requirements": [
 		{ "item": "beryllium", "amount": 15 },
