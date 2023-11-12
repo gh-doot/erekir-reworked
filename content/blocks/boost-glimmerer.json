@@ -1,0 +1,12 @@
+{
+	"name": "Boost Glimmerer",
+	"description": "A weaker overdrive projector merely reconstructed for Erekir.",
+	"type": "OverdriveProjector",
+	"size": 2,
+	"requirements": [
+		{ "item": "beryllium", "amount": 15 },
+		{ "item": "silicon", "amount": 5 }
+	],
+	"category": "effect",
+	"research": "beam-node"
+}
