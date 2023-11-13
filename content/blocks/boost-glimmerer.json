@@ -21,9 +21,11 @@
           }
     },
 	"requirements": [
-		{ "item": "beryllium", "amount": 15 },
-		{ "item": "silicon", "amount": 5 }
+		{ "item": "silicon", "amount": 65 },
+		{ "item": "tungsten", "amount": 45 },
+    { "item": "oxide", "amount": 20 },
+    { "item": "beryllium", "amount": 55 }
 	],
 	"category": "effect",
-	"research": "beam-node"
+	"research": "regen-projector"
 }

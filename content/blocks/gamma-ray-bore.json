@@ -1,0 +1,23 @@
+{
+	"name": "Gamma Ray Bore",
+	"description": "An upgrade from the Plasma Bore, this bore can be used to produce high yielding gamma rays. Cannot be boosted by hydrogen.",
+	"type": "BeamDrill",
+	"size": 2,
+  "drillTime": 180,
+  "tier": 4,
+  "range": 5.5,
+  "hasPower": true,
+  "sparkColor": "E079B1",
+  "sparks": 14,
+  "consumes": {
+    "power": 0.4
+  },
+  "blockedItem": ["thorium"],
+	"requirements": [
+		{ "item": "beryllium", "amount": 80 },
+		{ "item": "tungsten", "amount": 15 },
+    { "item": "graphite", "amount": 15 }
+	],
+	"category": "effect",
+	"research": "plasma-bore"
+}
