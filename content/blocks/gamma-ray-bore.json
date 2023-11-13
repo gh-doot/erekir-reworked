@@ -18,6 +18,6 @@
 		{ "item": "tungsten", "amount": 15 },
     { "item": "graphite", "amount": 15 }
 	],
-	"category": "effect",
+	"category": "mining",
 	"research": "plasma-bore"
 }
