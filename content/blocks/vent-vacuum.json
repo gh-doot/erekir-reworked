@@ -1,0 +1,38 @@
+{
+	"name": "Vent Vacuum",
+	"description": "A vacuum mechanism that will extract pure Steam from vents. Requires power.",
+	"type": "AttributeCrafter",
+  "attribute": "steam",
+  "minEfficiency": 1,
+  "squareSprite": false,
+  "baseEfficiency": 0,
+  "displayEfficiency": false,
+  "craftEffect": "turbinegenerate",
+  "craftTime": 130,
+  "hasLiquids": true,
+	"size": 3,
+  "drawer": [
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "steam"
+    }
+  ],
+  "hasPower": true,
+  "outputLiquid": {
+    "liquid": "steam",
+    "amount": 0.25
+  },
+  "consumes": {
+    "power": 0.4
+  },
+	"requirements": [
+		{ "item": "beryllium", "amount": 80 },
+		{ "item": "tungsten", "amount": 15 },
+    { "item": "graphite", "amount": 15 }
+	],
+	"category": "production",
+	"research": "plasma-bore"
+}
