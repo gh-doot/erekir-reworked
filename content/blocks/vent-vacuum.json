@@ -33,8 +33,7 @@
   },
 	"requirements": [
 		{ "item": "beryllium", "amount": 80 },
-		{ "item": "tungsten", "amount": 15 },
-    { "item": "graphite", "amount": 15 }
+    { "item": "silicon", "amount": 25 }
 	],
 	"category": "production",
 	"research": "vent-condenser"
