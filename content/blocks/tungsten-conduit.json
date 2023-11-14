@@ -1,0 +1,12 @@
+{
+	"name": "Tungsten Conduit",
+	"description": "A more flexible version of the Reinforced Conduit which also has more health.",
+	"type": "Conduit",
+  "hasLIquid": true,
+  "health": 400,
+	"requirements": [
+		{ "item": "tungsten", "amount": 3 }
+	],
+	"category": "liquid",
+	"research": "reinforced-conduit"
+}
