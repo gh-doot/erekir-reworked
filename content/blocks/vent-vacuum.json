@@ -10,6 +10,7 @@
   "craftEffect": "turbinegenerate",
   "craftTime": 130,
   "hasLiquids": true,
+  "liquidCapacity": 60,
 	"size": 3,
   "drawer": [
     {
@@ -36,5 +37,5 @@
     { "item": "graphite", "amount": 15 }
 	],
 	"category": "production",
-	"research": "plasma-bore"
+	"research": "vent-condenser"
 }
