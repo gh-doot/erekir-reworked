@@ -3,7 +3,7 @@
 	"description": "Generates power from graphite. Similar to the Combustion Generator, if not exactly the same. Can overthrow Turbine Generators if used in vast amounts.",
 	"type": "ConsumeGenerator",
 	"size": 1,
-    "powerProduction": 1.4,
+    "powerProduction": 0.5,
     "itemDuration": 60,
     "ambientSound": "smelter",
     "ambientSoundVolume": 0.04,
