@@ -1,0 +1,28 @@
+{
+	"name": "Graphite Generator",
+	"description": "Generates power from graphite. Similar to the Combustion Generator, if not exactly the same. Can overthrow Turbine Generators if used in vast amounts.",
+	"type": "ConsumeGenerator",
+	"size": 1,
+    "powerProduction": 1.4,
+    "itemDuration": 60,
+    "ambientSound": "smelter",
+    "ambientSoundVolume": 0.04,
+    "squareSprite": false,
+    "consumes": {
+        "items": {
+            "items": [
+              {
+                "item": "graphite",
+                "amount": 1
+              }
+            ]
+        }
+    },
+    "hasPower": true,
+	"requirements": [
+		{ "item": "beryllium", "amount": 55 },
+		{ "item": "graphite", "amount": 25 }
+	],
+	"category": "power",
+	"research": "turbine-condenser"
+}
