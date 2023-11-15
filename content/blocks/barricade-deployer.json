@@ -8,7 +8,19 @@
   "radius": 70,
   "shieldHealth": 450,
   "cooldownNormal": 1.2,
-  
+  "consumes": {
+        "power": 3,
+        "items": {
+            "items": [
+              {
+                "item": "phase-fabric",
+                "amount": 1
+              }
+            ],
+            "booster": true,
+            "optional": true
+          }
+    },
 	"requirements": [
 		{ "item": "beryllium", "amount": 5 },
 		{ "item": "carbide", "amount": 3 }
