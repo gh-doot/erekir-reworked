@@ -9,7 +9,7 @@
       "liquids": [
           {
               "liquid": "steam",
-              "amount": "1"
+              "amount": "0.3"
           }
       ]
 	},
