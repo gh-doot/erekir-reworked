@@ -1,4 +1,1 @@
-## Erekir Reworked
-A mod that *attempts* to try fill in the gaps between Erekir's progression. EXTREMELY UNORIGINAL,
-this mod will absolutely not suit you properly if you dislike unoriginal content that does not
-create a huge difference in the game, but instead to expand on it. May have balancing issues. Also is extremely JSON and has only pure JSON. (RhinoJS sent me to heaven and Java I don't know)
+(lgoo)[https://github.com/gh-doot/erekir-reworked/blob/main/githubrepository/pixil-frame-0%20(2).png?raw=true]
