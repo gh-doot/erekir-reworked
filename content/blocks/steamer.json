@@ -1,9 +1,10 @@
 {
 	"name": "Steamer",
-	"description": "Uses Steam to generate a reliable amount of heat.",
+	"description": "Uses Steam to generate a reliable amount of heat. Also some power.",
 	"type": "HeaterGenerator",
 	"size": 3,
   "liquidCapacity": 50,
+  "powerOutput": 250,
   "heatOutput": 7,
   "consumes": {
       "liquids": [
