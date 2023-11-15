@@ -23,8 +23,11 @@
           }
     },
 	"requirements": [
-		{ "item": "beryllium", "amount": 5 },
-		{ "item": "carbide", "amount": 3 }
+		{ "item": "beryllium", "amount": 80 },
+		{ "item": "oxide", "amount": 65 },
+		{ "item": "tungsten", "amount": 50 },
+		{ "item": "thorium", "amount": 55 },
+		{ "item": "silicon", "amount": 35 }
 	],
 	"category": "effect",
 	"research": "boost-glimmerer"
