@@ -8,6 +8,14 @@
     "ambientSound": "smelter",
     "ambientSoundVolume": 0.04,
     "squareSprite": false,
+    "drawer": [
+      {
+          "type": "DrawDefault"
+      },
+      {
+        "type": "DrawWarmupRegion"
+      }
+    ],
     "consumes": {
         "items": {
             "items": [

@@ -6,6 +6,25 @@
   "liquidCapacity": 50,
   "powerOutput": 250,
   "heatOutput": 7,
+  "drawer": [
+    {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+    },
+    {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "steam",
+      "padding": 1
+    },
+    {
+      "type": "DrawRegion",
+      "suffix": ""
+    },
+    {
+        "type": "DrawHeatOutput",
+        "suffix": "-heat"
+    }
+  ],
   "consumes": {
       "liquids": [
           {
