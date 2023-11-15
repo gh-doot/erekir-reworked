@@ -15,16 +15,4 @@ Preferrably, Erekir has a slow and slightly boring progression *in my opinion*, 
 
 *Authored by doot*
 
-> [!WARNING]
-> **Contains spoilers of all game content below! If you prefer seeing everything yourself, leave and avoid this section.**
-
-## Mod Contents
-- Cataclysmic Drill | Block | Burst Drill
-- Carbide Beam Node | Block | Beam Node
-- Non-directional Beam Node | Block | Long Power Node
-- Non-directional Carbide Beam Node | Block | Long Power Node
-- Boost Glimmerer | Block | Overdrive Projector
-- Gamma Ray Bore | Block | Beam Drill
-- Tungsten Conduit | Block | Conduit
-- Vent Vacuum | Block | Attribute Crafter
-- Graphite Generator | Block | Consume Generator
+// TODO: Extend README.
