@@ -3,7 +3,7 @@
 	"description": "Deploys a shield similar to the Shield Projector, but not as powerful that it can repel units or delete bullets.",
 	"type": "ForceProjector",
 	"size": 3,
-  "sides": 30,
+  "sides": 90,
   "radius": 135,
 	"phaseRadiusBoost": 50,
   "shieldHealth": 450,
