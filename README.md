@@ -15,9 +15,32 @@ Preferrably, Erekir has a slow and slightly boring progression *in my opinion*, 
 
 *Authored by doot*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > [!WARNING]
 > **Contains spoilers of all game content below! If you prefer seeing everything yourself, leave and avoid this section.
 
 ## Mod Contents
-- Cataclysmic Drill
+- Cataclysmic Drill | Block | Burst Drill
+- Carbide Beam Node | Block | Beam Node
+- Non-directional Beam Node | Block | Long Power Node
+- Non-directional Carbide Beam Node | Block | Long Power Node
 
