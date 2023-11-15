@@ -1,1 +1,18 @@
-
+{
+	"name": "Barricade Deployer",
+	"description": "Deploys a shield similar to the Shield Projector, but not as powerful that it can repel units or delete bullets.",
+	"type": "ForceProjector",
+	"size": 3,
+  "sides": 30,
+  "speed": 7,
+  "radius": 70,
+  "shieldHealth": 450,
+  "cooldownNormal": 1.2,
+  
+	"requirements": [
+		{ "item": "beryllium", "amount": 5 },
+		{ "item": "carbide", "amount": 3 }
+	],
+	"category": "effect",
+	"research": "boost-glimmerer"
+}
