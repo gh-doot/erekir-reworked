@@ -1,7 +1,7 @@
-name: "zdoot-erekir-stuff"
-displayName: "Erekir Stuff"
+name: "erekir-reworked"
+displayName: "Erekir Reworked"
 author: doot
-description: "Some random erekir stuff that could belong in the game."
+description: "Boatload ton of Erekir content that fill gaps in progression. Avoid if you don't like unoriginal stuff."
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
