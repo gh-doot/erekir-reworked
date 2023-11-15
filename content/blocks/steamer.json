@@ -1,1 +1,24 @@
-
+{
+	"name": "Steamer",
+	"description": "Uses Steam to generate a reliable amount of heat.",
+	"type": "HeaterGenerator",
+	"size": 3,
+  "liquidCapacity": 50,
+  "heatOutput": 7,
+  "consumes": {
+      "liquids": [
+          {
+              "liquid": "steam",
+              "amount": "1"
+          }
+      ]
+	},
+	"requirements": [
+		{ "item": "beryllium", "amount": 80 },
+		{ "item": "silicon", "amount": 45 },
+    { "item": "tungsten", "amount": 50 },
+    { "item": "graphite", "amount": 25 }
+	],
+	"category": "crafting",
+	"research": "gas-vacuum"
+}
