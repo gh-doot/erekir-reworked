@@ -40,5 +40,5 @@
     { "item": "graphite", "amount": 25 }
 	],
 	"category": "crafting",
-	"research": "gas-vacuum"
+	"research": "vent-vacuum"
 }
