@@ -1,7 +1,7 @@
 ![logo](https://github.com/gh-doot/erekir-extended/blob/d74e5d817e69401c057025cf25c5d91ab31887d4/githubrepository/pixil-frame-0%20(3).png)
 
 ---
-> [!INFO]
+> [!NOTE]
 > __Urgently__ looking for a spriter, if you're a good spriter, please contact me in Discord to collaborate. (zdoot)
 
 > [!CAUTION]
