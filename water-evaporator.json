@@ -20,9 +20,9 @@
     ]
 	},
 	"requirements": [
-		{ "item": "beryllium", "amount": 70 },
-    { "item": "silicon", "amount": 30 }
-		{ "item": "tungsten", "amount": 15 }
+		{ "item": "beryllium", "amount": 90 },
+    { "item": "silicon", "amount": 40 }
+		{ "item": "tungsten", "amount": 45 }
 	],
 	"category": "crafting",
 	"research": "vent-vacuum"
