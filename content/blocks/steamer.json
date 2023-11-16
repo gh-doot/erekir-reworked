@@ -5,7 +5,7 @@
 	"size": 3,
   "liquidCapacity": 50,
   "powerOutput": 250,
-  "heatOutput": 7,
+  "heatOutput": 4,
   "drawer": [
     {
         "type": "DrawRegion",

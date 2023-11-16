@@ -3,7 +3,7 @@
 	"description": "Moves items forward but more faster. Is more armored than the Armored Duct.",
 	"type": "Duct",
 	"size": 1,
-  "speed": 7,
+    "speed": 3,
 	"health" : 230,
 	"requirements": [
 		{ "item": "beryllium", "amount": 5 },
