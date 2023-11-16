@@ -1,0 +1,29 @@
+{
+	"name": "Water Evaporator",
+	"description": "Uses water to evaporate it into Steam. Less efficient than a Vent Vacuum.",
+	"type": "GenericCrafter",
+  "hasLiquids": true,
+  "liquidCapacity": 100,
+  "squareSprite": false,
+  "outputLiquid": {
+    "liquid": "steam",
+    "amount": 0.1
+  },
+	"size": 3,
+  "consumes": {
+    "power": 2
+    "liquids": [
+        {
+          "liquid": "water",
+          "amount": "0.35"
+        }
+    ]
+	},
+	"requirements": [
+		{ "item": "beryllium", "amount": 70 },
+    { "item": "silicon", "amount": 30 }
+		{ "item": "tungsten", "amount": 15 }
+	],
+	"category": "crafting",
+	"research": "vent-vacuum"
+}
