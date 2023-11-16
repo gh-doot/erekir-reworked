@@ -4,6 +4,7 @@
 	"type": "Duct",
 	"size": 1,
   "speed": 7,
+	"health" : 230,
 	"requirements": [
 		{ "item": "beryllium", "amount": 5 },
 		{ "item": "carbide", "amount": 3 }
