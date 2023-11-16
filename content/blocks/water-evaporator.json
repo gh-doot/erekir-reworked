@@ -5,6 +5,7 @@
   "hasLiquids": true,
   "liquidCapacity": 100,
   "squareSprite": false,
+  "updateEffect": "steam",
   "outputLiquid": {
     "liquid": "steam",
     "amount": 0.1
