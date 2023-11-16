@@ -11,7 +11,7 @@
   },
 	"size": 3,
   "consumes": {
-    "power": 2
+    "power": 2,
     "liquids": [
         {
           "liquid": "water",
@@ -21,7 +21,7 @@
 	},
 	"requirements": [
 		{ "item": "beryllium", "amount": 90 },
-    { "item": "silicon", "amount": 40 }
+    { "item": "silicon", "amount": 40 },
 		{ "item": "tungsten", "amount": 45 }
 	],
 	"category": "crafting",
