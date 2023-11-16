@@ -7,7 +7,7 @@
   "squareSprite": false,
   "baseEfficiency": 0,
   "displayEfficiency": false,
-  "craftEffect": "turbinegenerate",
+  "craftEffect": "steam",
   "craftTime": 130,
   "hasLiquids": true,
   "liquidCapacity": 60,
