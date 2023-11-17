@@ -1,4 +1,4 @@
-![logo](https://github.com/gh-doot/erekir-extended/blob/d74e5d817e69401c057025cf25c5d91ab31887d4/githubrepository/pixil-frame-0%20(3).png)
+![logo](https://github.com/gh-doot/erekir-extended/blob/25754040570e0f657e9f338c8a0ef39736e68585/githubrepository/pixil-frame-0%20(3).png)
 
 ---
 > [!NOTE]
@@ -7,8 +7,8 @@
 > [!CAUTION]
 > ***Very unoriginal, may not suit people who don't like unoriginal content.***
 
-## What is Erekir Extended?
-Erekir Extended is a Mindustry mod that has a lot of unique improvements and particular upgrades to Erekir's content, introducing some few between two tiers of blocks like Plasma Bores, **Gamma Ray Bores**, and Large Plasma Bores, to upgrades such as Eruption Drills to **Cataclysmic** drills. Cursed concepts like Beam Nodes that have no particular direction, or entirely new mechanics such as the Boost Glimmerer and Steam!
+## What is Erekir Reworked?
+Erekir Reworked is a Mindustry mod that has a lot of unique improvements and particular upgrades to Erekir's content, introducing some few between two tiers of blocks like Plasma Bores, **Gamma Ray Bores**, and Large Plasma Bores, to upgrades such as Eruption Drills to **Cataclysmic** drills. Cursed concepts like Beam Nodes that have no particular direction, or entirely new mechanics such as the Boost Glimmerer and Steam!
 
 ## Why does it exist?
 Preferrably, Erekir has a slow and slightly boring progression *in my opinion*, so I wanted to add some extra content to it and make it more interesting. If you think you want a more interesting, less game-changing mod that adds less rough bumps in Erekir but more smoother progression, then consider this mod.
