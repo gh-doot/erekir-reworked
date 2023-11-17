@@ -10,6 +10,39 @@
     "liquid": "steam",
     "amount": 0.1
   },
+  "drawer": [
+    {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "steam",
+      "padding": 1,
+      "padLeft": 13
+    },
+    {
+      "type": "DrawLiquidTile",
+      "drawLiquid": "water",
+      "padding": 1,
+      "padRight": 13
+    },
+    {
+      "type": "DrawRegion",
+      "suffix": ""
+    },
+    {
+      "type": "DrawBubbles",
+      "color": "596ab8",
+      "spread": 5,
+      "timeScl": 10
+    },
+    {
+      "type": "DrawBubbles",
+      "color": "c7cdd6",
+      "spread": 10,
+      "timeScl": 70
+    },
+    {
+      "type": "DrawFlame"
+    }
+  ],
 	"size": 3,
   "consumes": {
     "power": 2,

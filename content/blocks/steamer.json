@@ -23,6 +23,12 @@
     {
         "type": "DrawHeatOutput",
         "suffix": "-heat"
+    },
+    {
+      "type": "DrawBubbles",
+      "color": "c7cdd6",
+      "spread": 10,
+      "timeScl": 70
     }
   ],
   "consumes": {
