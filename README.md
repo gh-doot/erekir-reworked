@@ -1,4 +1,4 @@
-![logo](https://github.com/gh-doot/erekir-extended/blob/main/pixil-frame-0%20(3).png)
+![logo](https://github.com/gh-doot/erekir-extended/blob/25754040570e0f657e9f338c8a0ef39736e68585/githubrepository/pixil-frame-0%20(3).png)
 
 ---
 > [!NOTE]
