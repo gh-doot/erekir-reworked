@@ -2,7 +2,7 @@
 
 ---
 > [!NOTE]
-> __Urgently__ looking for a spriter, if you're a good spriter, please contact me in Discord to collaborate. (zdoot)
+> Discontinued Temporarily.
 
 > [!CAUTION]
 > ***Very unoriginal, may not suit people who don't like unoriginal content.***
